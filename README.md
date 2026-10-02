@@ -6,7 +6,7 @@ An interactive, modern Excel dashboard designed to analyze and visualize global 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.png.png)
 
 
 ## 🚀 Key Highlights & Metrics
