@@ -1,3 +1,4 @@
+<img width="1335" height="745" alt="dashboard png" src="https://github.com/user-attachments/assets/7c037248-a20c-4fcf-8945-10e21c08308f" />
 # 📊 Global Financial Markets & Sector Performance Dashboard
 
 An interactive, modern Excel dashboard designed to analyze and visualize global financial market trends, sector variations, company-level stock performance, and the market impact of major financial news events.
