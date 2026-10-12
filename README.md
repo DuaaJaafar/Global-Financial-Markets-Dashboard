@@ -6,7 +6,7 @@
 
 ## 📸 Dashboard Preview
 
-<img width="1403" height="669" alt="Screenshot 2026-10-12 163712" src="https://github.com/user-attachments/assets/f9eb642f-d169-4730-ba15-01b502519e1a" />
+<img width="1404" height="673" alt="mmm" src="https://github.com/user-attachments/assets/bb8e7fa1-b807-4869-a76c-79ecdcd7fb2f" />
 
 
 
